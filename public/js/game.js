@@ -53,7 +53,7 @@ function create() {
   var tilesets = mapa.addTilesetImage('terrain_atlas','tiles' );
   var solidos = mapa.createDynamicLayer('solidos',tilesets,0,0);
 
-
+//aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 
   //Declaracion de socket y otros jugadores
